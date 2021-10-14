@@ -10,7 +10,7 @@ import { Router } from '@angular/router';
 })
 export class HeaderComponent implements OnInit {
 
-  title: string = 'Todo Manager';
+  title: string = 'To-Do Manager';
   showAddTask: boolean = false;
   subscription: Subscription;
 

@@ -1,6 +1,6 @@
 # Angular Demo: To Do Manager App
 
-This is a simple app that manages todo tasks online with easy-to-use user interface. <br />
+This is a simple <b>JavaScript app</b> that manages todo tasks online with easy-to-use user interface. <br />
 It includes the <b>Angular ui</b> as well as <b>JSON-server</b> for our mock backend.
 
 <br />

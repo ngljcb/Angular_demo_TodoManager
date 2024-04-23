@@ -3,7 +3,6 @@
 This is a simple <b>JavaScript app</b> that manages todo tasks online with easy-to-use user interface. <br />
 It includes the <b>Angular ui</b> as well as <b>JSON-server</b> for our mock backend.
 
-<br />
 <img src="./todo.gif">
 <br />
 
